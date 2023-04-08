@@ -1,4 +1,4 @@
-# Python-classes by XP
+# Python Bootcamp by XP
 
 ###  Study topics  
 
