@@ -1,4 +1,4 @@
-import numpy as np
+import my_numpy as np
 
 # Acessando elementos
 

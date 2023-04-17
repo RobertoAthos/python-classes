@@ -1,4 +1,4 @@
-import numpy as np
+import my_numpy as np
 
 # criação de um array 1D: [1,2,3] (1 dimensão)
 l = [1,2,3]

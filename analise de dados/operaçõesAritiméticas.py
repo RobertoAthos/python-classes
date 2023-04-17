@@ -1,4 +1,4 @@
-import numpy as np
+import my_numpy as np
 
 # Funções aritiméticas: soma, subtração e divisão
 
